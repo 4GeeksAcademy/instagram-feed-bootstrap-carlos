@@ -1,0 +1,24 @@
+.post-img-col {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.negritas {
+   font-weight: bold;
+   margin-right: auto;
+}
+
+.card-header {
+  font-weight: bold;
+  display: flex;
+  align-items: center;
+}
+
+.fecha {
+  margin-left: auto;
+  font-size: small;
+}
+
+.card-body{
+    text-align: left;
+}
